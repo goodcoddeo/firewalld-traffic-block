@@ -11,6 +11,7 @@
 
 ## ❗ 방화벽
 - 위 해외망 차단 스크립트는 `firewalld` 방화벽만 사용할 수 있습니다!
+- `iptables` 방화벽을 사용하고 계신다면? [여기를 클릭해주세요](https://github.com/goodcoddeo/iptables-traffic-block)
 
 ## 🔧 설치 방법
 
